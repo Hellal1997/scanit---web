@@ -43,7 +43,7 @@
 git clone https://github.com/GoudaWolfDev/SCANET-Web.git](https://github.com/Hellal1997/scanit---web.git
 
 # Enter the directory
-cd SCANET-Web
+cd scanit---web
 
 # Install Python dependencies
 pip install rich requests
